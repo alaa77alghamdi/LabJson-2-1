@@ -1,0 +1,11 @@
+{"name":[
+        { "FirstName":"Alaa"},
+        { "lastName":"Alghamdi"}],
+       
+         "roomNumber":20,
+         "bookingDateFrom": "2-10",
+         "bookingDateTo": "3-10",
+         "paid": true,
+         "attended": true
+       
+       }
